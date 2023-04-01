@@ -1,3 +1,3 @@
 # Тут скоро что то будет
 
-> midis.iky.su/docs
+> https://midis.iky.su/docs
